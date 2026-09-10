@@ -1,11 +1,11 @@
 module.exports = {
 
-    host: "192.168.1.152",
+    host: "...",
 
-    user: "root",
+    user: "...",
 
-    password: "senha123",
+    password: "...",
 
-    database: "Chamados",
+    database: "...",
 
 }
